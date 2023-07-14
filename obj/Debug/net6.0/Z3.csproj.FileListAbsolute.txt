@@ -1,0 +1,15 @@
+C:\Users\AREK\source\repos\Z3\Z3\bin\Debug\net6.0\Z3.exe
+C:\Users\AREK\source\repos\Z3\Z3\bin\Debug\net6.0\Z3.deps.json
+C:\Users\AREK\source\repos\Z3\Z3\bin\Debug\net6.0\Z3.runtimeconfig.json
+C:\Users\AREK\source\repos\Z3\Z3\bin\Debug\net6.0\Z3.dll
+C:\Users\AREK\source\repos\Z3\Z3\bin\Debug\net6.0\Z3.pdb
+C:\Users\AREK\source\repos\Z3\Z3\obj\Debug\net6.0\Z3.csproj.AssemblyReference.cache
+C:\Users\AREK\source\repos\Z3\Z3\obj\Debug\net6.0\Z3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AREK\source\repos\Z3\Z3\obj\Debug\net6.0\Z3.AssemblyInfoInputs.cache
+C:\Users\AREK\source\repos\Z3\Z3\obj\Debug\net6.0\Z3.AssemblyInfo.cs
+C:\Users\AREK\source\repos\Z3\Z3\obj\Debug\net6.0\Z3.csproj.CoreCompileInputs.cache
+C:\Users\AREK\source\repos\Z3\Z3\obj\Debug\net6.0\Z3.dll
+C:\Users\AREK\source\repos\Z3\Z3\obj\Debug\net6.0\refint\Z3.dll
+C:\Users\AREK\source\repos\Z3\Z3\obj\Debug\net6.0\Z3.pdb
+C:\Users\AREK\source\repos\Z3\Z3\obj\Debug\net6.0\Z3.genruntimeconfig.cache
+C:\Users\AREK\source\repos\Z3\Z3\obj\Debug\net6.0\ref\Z3.dll
